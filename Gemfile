@@ -7,4 +7,5 @@ group :test, :development do
   gem 'simplecov-console', require: false, group: :test
   gem 'sinatra'
   gem 'thin'
+  gem 'shotgun'
 end
