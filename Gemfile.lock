@@ -58,6 +58,7 @@ GEM
       unicode-display_width (~> 1.1, >= 1.1.1)
     tilt (2.0.10)
     unicode-display_width (1.6.1)
+    webrick (1.7.0)
 
 PLATFORMS
   ruby
@@ -69,6 +70,7 @@ DEPENDENCIES
   simplecov
   simplecov-console
   sinatra
+  webrick
 
 BUNDLED WITH
-   2.2.3
+   2.2.5

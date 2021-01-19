@@ -6,6 +6,6 @@ group :test, :development do
   gem 'simplecov', require: false, group: :test
   gem 'simplecov-console', require: false, group: :test
   gem 'sinatra'
-  gem 'thin'
   gem 'shotgun'
+  gem 'webrick'
 end
